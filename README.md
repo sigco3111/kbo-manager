@@ -2,7 +2,9 @@
 
 KBO 리그 매니저는 한국 프로야구(KBO) 팀들을 대상으로 하는 텍스트 및 차트 기반의 야구팀 관리 게임입니다. 팀의 재정을 관리하고 KBO 리그에서 우승으로 이끄는 것이 목표입니다.
 
-실행 주소 : https://dev-canvas-pi.vercel.app/
+라이브 데모 : https://sigco3111.github.io/kbo-manager/
+
+> **호스팅 이력**: 본 프로젝트는 Vercel에서 GitHub Pages로 이관되었습니다 (2026-08). 과거 Vercel alias는 더 이상 유효하지 않으므로 위 Pages URL을 사용해 주세요.
 
 ## 주요 기능
 
